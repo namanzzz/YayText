@@ -1,3 +1,3 @@
-##Available at: 
+## Available at: 
 
 https://yaytext.netlify.app
